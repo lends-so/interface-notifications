@@ -3,7 +3,11 @@
     {
       "title": "NEW INTERFACE",
       "message": "Our flagship interface has went through a remodel. A brand new interface with an emphasis on user experience.",
-      "type": "success"
+      "type": "success",
+      "link": {
+        "href": "https://twitter.com/Lends_so/status/1774115808823705937",
+        "text": "Learn More →"
+      }
     }
   ]
 }
