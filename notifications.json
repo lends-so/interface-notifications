@@ -1,13 +1,9 @@
 {
   "manual": [
     {
-      "title": "NEW INTERFACE",
-      "message": "Our flagship interface has went through a remodel. A brand new interface with an emphasis on user experience.",
-      "type": "success",
-      "link": {
-        "href": "https://twitter.com/Lends_so/status/1774115808823705937",
-        "text": "Learn More →"
-      }
+      "title": "FEE CHANGE",
+      "message": “As we continue to enhance our services, we're implementing a modest 0.75% fee (previously 0%). This enables us to deliver even better features and reliability.”,
+      "type": "warning"
     }
   ]
 }
